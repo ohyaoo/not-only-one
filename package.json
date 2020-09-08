@@ -1,0 +1,22 @@
+{
+  "name": "not-only-one",
+  "version": "1.0.0",
+  "description": "one core",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohyaoo/not-only-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohyaoo/not-only-one/issues"
+  },
+  "homepage": "https://github.com/ohyaoo/not-only-one#readme",
+  "devDependencies": {
+    "@gem-mine/eslint-config-recommend": "^3.2.1"
+  }
+}
