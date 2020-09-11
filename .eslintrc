@@ -1,3 +1,4 @@
 {
-  "extends": "@gem-mine/recommend"
+  "root": true,
+  "extends": ["@gem-mine/recommend"]
 }
